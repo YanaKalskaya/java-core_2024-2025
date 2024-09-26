@@ -12,5 +12,6 @@ public class Example11 {
         int age = 2024 - yearBirth;
         System.out.println("Ваше имя: " + name);
         System.out.println("Ваш возраст: " + age);
+        scanner.close();
     }
 }

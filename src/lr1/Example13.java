@@ -11,5 +11,6 @@ public class Example13 {
         int num2 = scanner.nextInt();
         int sum = num1 + num2;
         System.out.println("Сумма данных чисел равна " + sum);
+        scanner.close();
     }
 }

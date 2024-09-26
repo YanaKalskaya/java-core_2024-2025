@@ -12,5 +12,6 @@ public class Example14 {
         int sum = min + max + num;
         int square = sum * sum;
         System.out.println(min + " " + num + " " + max + " " + square );
+        scanner.close();
     }
 }

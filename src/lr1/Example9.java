@@ -10,5 +10,6 @@ public class Example9 {
         System.out.println("Введите количетво дней в этом месяце: ");
         int countDay = scanner.nextInt();
         System.out.println(month + " содержит " + countDay + " дней");
+        scanner.close();
     }
 }

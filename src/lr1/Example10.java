@@ -9,5 +9,6 @@ public class Example10 {
         int yearBirth = scanner.nextInt();
         int age = 2024 - yearBirth;
         System.out.println("Ваш возраст: " + age);
+        scanner.close();
     }
 }

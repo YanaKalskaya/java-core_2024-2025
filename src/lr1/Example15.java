@@ -13,5 +13,6 @@ public class Example15 {
         int diff = num1 - num2;
         System.out.println("Сумма данных чисел: " + sum);
         System.out.println("Разность данных чисел: " + diff);
+        scanner.close();
     }
 }
