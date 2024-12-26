@@ -13,9 +13,9 @@ public class Primer1 {
         while (true) {
             int oneByte = in.read();
             if(oneByte != -1) {
-                System.out.println((char) oneByte);
+                System.out.print((char) oneByte);
             } else {
-                System.out.println("\n" + "end");
+                System.out.print("\n" + "end");
                 break;
             }
         }
