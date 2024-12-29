@@ -46,6 +46,9 @@ public class Main {
         } finally {
             wr1.flush();
             wr1.close();
+            wr2.flush();
+            wr2.close();
+            rd.close();
         }
     }
 }
