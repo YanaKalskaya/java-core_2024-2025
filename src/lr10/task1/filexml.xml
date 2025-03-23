@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><birthdays>
+    <birthday>
+        <name>Иванов Иван Иванович</name>
+        <date>04.02.2004</date>
+    </birthday>
+    <birthday>
+        <name>Петров Петр Петрович</name>
+        <date>05.04.2003</date>
+    </birthday>
+    
+    <birthday>
+        <name>Петров</name>
+        <date>03.03.2000</date>
+    </birthday>
+</birthdays>
